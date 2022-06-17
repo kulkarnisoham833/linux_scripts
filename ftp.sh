@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo cat ftp.txt > /etc/vsftpd.conf
+cat vsftpd.txt > /etc/vsftpd.conf
